@@ -53,7 +53,7 @@ rsync -avh --no-compress --progress /ZPOOL/data/tools/ tux#####@owlsnest.hpc.tem
 rsync -avh --no-compress --progress /ZPOOL/data/projects/rf1-sra-data/derivatives/fsl/EVfiles/ tux#####@owlsnest.hpc.temple.edu:work/rf1-sra-data/derivatives/fsl/EVfiles/
 
 # copy fmriprep derivatives from the OwlsNest to our Linux box
-rsync -avh --no-compress --progress /home/tux######/work/rf1-sra-data/derivatives/fmriprep/ /ZPOOL/data/projects/rf1-sra-data/derivatives/fmriprep/
+rsync -avh --no-compress --progress /home/tux######/work/rf1-sra-data/derivatives/fmriprep/ tux#####@cla18994.tu.temple.edu:/ZPOOL/data/projects/rf1-sra-data/derivatives/fmriprep/
 ```
 
 ### Running FMRIprep
