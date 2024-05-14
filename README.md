@@ -30,9 +30,10 @@ Beyond basic operations in Linux, you should also have a good sense of how much 
 1. Use `rsync` data from the Smith Lab Linux to your work directory on the OwlsNest.
 2. Install Anaconda and any packages you need. Also be sure to copy any tools and licenses you need.
 3. Set up your GitHub profile and clone your scripts. You can also just clone or fork this repository, but I should make it read only.
-4. Check settings in the header of each script. Be sure to change the email.
-5. Run your jobs (or "calculations" as the OwlsNest folks say)
-6. Use `rsync` to copy your results and output back to our Linux Box.
+4. git clone https://github.com/your-username/your-repo
+5. Check settings in the header of each script. Be sure to change the email.
+6. Run your jobs (or "calculations" as the OwlsNest folks say)
+7. Use `rsync` to copy your results and output back to our Linux Box.
 
 ## Examples and notes
 
